@@ -2,7 +2,7 @@
 # Bankist App
 A demo bank website linked to the earlier posted mini-bankist App.
 This is the advert site while the earlier is the transaction app.
-Login details of the mini bankist app are detailed at [mini-bankist](github.com/NwekeMaxwell/mini-bankist)
+Login details of the mini bankist app are detailed at [github.com/NwekeMaxwell/mini-bankist]
 ## Featuring
 > Slider
 
